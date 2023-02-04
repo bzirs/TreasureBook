@@ -1,12 +1,12 @@
 name: 部署文档
 
 on:
-  # push:
-  #   branches:
-  #     - main # default branch
-  schedule:
-   # * is a special character in YAML so you have to quote this string
-    - cron: '* 0,6,12,18 * * *'
+  push:
+    branches:
+      - main # default branch
+  # schedule:
+  #  * is a special character in YAML so you have to quote this string
+  #   - cron: '* 0,6,12,18 * * *'
 
 jobs:
   deploy:
