@@ -37,3 +37,4 @@
 9. [vue常用修饰符](../JavaScript/vue_modifier.md)
 10. [Vue的生命周期](../JavaScript/vue_life_cycle.md)
 11. [Vue内置组件](../JavaScript/vue_assembly.md)
+12. [Vue中data为什么是函数](./vue_data_function.md)
