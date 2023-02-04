@@ -5,11 +5,16 @@
 
 1. [什么是事件循环(消息循环)](../Browser/event_loop.md)
 2. [什么是同源策略](../Browser/Homologous.md)
+3. [虚拟DOM](./virtual_dom.md)
 
 ## HTTP
 
 1. [为什么说HTTPS比HTTP安全](../Browser/why_https_security.md)
 2. [GET和POST请求的区别](../Browser/get_post.md)
+
+## 算法
+
+1. [diff算法](./diff_algorithm.md)
 
 ## JavaScript
 
