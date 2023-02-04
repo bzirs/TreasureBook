@@ -8,6 +8,10 @@
 4. [数组常用方法](./array_methods.md)
 5. [JS的计时器能精确计时吗](./timer.md)
 
+## 算法
+
+1. [diff算法](./diff_algorithm.md)
+
 ## Vue
 
 1. [什么是Vue](./what_is_vue.md)
