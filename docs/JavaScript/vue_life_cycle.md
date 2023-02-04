@@ -2,4 +2,4 @@
 nav: JS
 group: vue
 ---
-# Vue的生命周期
+# 生命周期

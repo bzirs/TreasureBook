@@ -2,7 +2,7 @@
 nav: JS
 group: vue
 ---
-# vue常用修饰符
+# 常用修饰符
 
 ## v-on
 
