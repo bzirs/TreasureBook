@@ -6,11 +6,13 @@ group: vue
 
 vue 实例从创建到销毁的过程就是生命周期. 声明周期分为四大阶段, 八大钩子函数.
 
-- 在挂载阶段有beforeCreate, created, beforeMount, mounted 四个钩子.
+- 在初始化阶段有beforeCreate, created 两个个钩子.
   1. beforeCreate 执行的时候, data 和method 还没有初始化, 只有一些默认的方法
   2. created 执行时, data 和method 已经初始化完毕, 可以操作
-  3. beforeMount 执行时, 内存中已经渲染好了模板, 还没有渲染到页面上
-  4. mounted 执行时, 内存中的模板, 已经真实的替换到了DOM上
+
+- 渲染阶段有 beforeMount, mounted 两个个钩子
+  1. beforeMount 执行时, 内存中已经渲染好了模板, 还没有渲染到页面上
+  2. mounted 执行时, 内存中的模板, 已经真实的替换到了DOM上
 
 - 在更新阶段有beforeUpdate, updated两个钩子.
   1. beforeUpdate 执行时, 页面显示的数据还是上一次的, 但是data 中数据已经更新
