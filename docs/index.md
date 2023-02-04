@@ -5,7 +5,7 @@ hero:
   description: 前端面试题文档
   actions:
     - text: 开始
-      link: /docs
+      link: /guide
     - text: 仓库地址
       link: https://github.com/bzirs/TreasureBook
 
