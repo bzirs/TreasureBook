@@ -1,4 +1,4 @@
-name: 文档部署
+name: 部署文档
 
 on:
   push:
