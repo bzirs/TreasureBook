@@ -5,7 +5,8 @@
 
 1. [什么是事件循环(消息循环)](../Browser/event_loop.md)
 2. [什么是同源策略](../Browser/Homologous.md)
-3. [虚拟DOM](./virtual_dom.md)
+3. [虚拟DOM](../Browser/virtual_dom.md)
+4. [什么是SPA](../Browser/what_is_spa.md)
 
 ## HTTP
 
@@ -27,14 +28,13 @@
 ## Vue
 
 1. [什么是Vue](../JavaScript/what_is_vue.md)
-2. [什么是SPA](../JavaScript/what_is_spa.md)
-3. [为什么v-for一定要绑定key](../JavaScript/for_why_must_key.md)
-4. [v-if和v-show区别](../JavaScript/v_if_v_show.md)
-5. [v-model本质](../JavaScript/v_model.md)
-6. [mvvm和mvc区别](../JavaScript/mvvm_mvc.md)
-7. [Vue2数据双向绑定原理](../JavaScript/vue_bidirectional_binding.md)
-8. [Vue常用的指令](../JavaScript/vue_instructions.md)
-9. [vue常用修饰符](../JavaScript/vue_modifier.md)
-10. [Vue的生命周期](../JavaScript/vue_life_cycle.md)
-11. [Vue内置组件](../JavaScript/vue_assembly.md)
-12. [Vue中data为什么是函数](./vue_data_function.md)
+2. [为什么v-for一定要绑定key](../JavaScript/for_why_must_key.md)
+3. [v-if和v-show区别](../JavaScript/v_if_v_show.md)
+4. [v-model本质](../JavaScript/v_model.md)
+5. [mvvm和mvc区别](../JavaScript/mvvm_mvc.md)
+6. [Vue2数据双向绑定原理](../JavaScript/vue_bidirectional_binding.md)
+7. [Vue常用的指令](../JavaScript/vue_instructions.md)
+8. [vue常用修饰符](../JavaScript/vue_modifier.md)
+9. [Vue的生命周期](../JavaScript/vue_life_cycle.md)
+10. [Vue内置组件](../JavaScript/vue_assembly.md)
+11. [Vue中data为什么是函数](./vue_data_function.md)
