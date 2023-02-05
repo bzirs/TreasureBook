@@ -43,3 +43,5 @@
 14. [Vue中$nextTick的作用](../JavaScript/vue_nexttick.md)
 15. [Vue的组件](../JavaScript/vue_component.md)
 16. [Vue的插件](../JavaScript/vue_plugin.md)
+17. [Vue2自定义指令](../JavaScript/vue_define_instructions.md)
+18. [Vue中的混入(mixin)](../JavaScript/vue_mixin.md)

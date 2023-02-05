@@ -30,3 +30,5 @@
 14. [Vue中$nextTick的作用](./vue_nexttick.md)
 15. [Vue的组件](./vue_component.md)
 16. [Vue的插件](./vue_plugin.md)
+17. [Vue2自定义指令](./vue_define_instructions.md)
+18. [Vue中的混入(mixin)](./vue_mixin.md)
