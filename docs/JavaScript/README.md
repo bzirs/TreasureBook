@@ -25,3 +25,4 @@
 9. [Vue的生命周期](./vue_life_cycle.md)
 10. [Vue内置组件](./vue_assembly.md)
 11. [Vue中data为什么是函数](./vue_data_function.md)
+12. [v-model和.sync的区别](./vue_model_sync.md)
