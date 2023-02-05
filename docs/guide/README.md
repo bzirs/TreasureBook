@@ -39,3 +39,4 @@
 10. [Vue内置组件](../JavaScript/vue_assembly.md)
 11. [Vue中data为什么是函数](./vue_data_function.md)
 12. [v-model和.sync的区别](./vue_model_sync.md)
+13. [v-if和v-for为什么不能一起使用](./v_for_if.md)
