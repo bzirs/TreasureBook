@@ -34,3 +34,4 @@
 18. [Vue中的混入(mixin)](./vue_mixin.md)
 19. [Vue中的slot(插槽)](./vue_slot.md)
 20. [Vue中sytle标签scoped原理](./vue_scoped.md)
+21. [Vue组件传值/通信](./vue_component_data.md)

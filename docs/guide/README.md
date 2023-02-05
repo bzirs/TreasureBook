@@ -47,3 +47,4 @@
 18. [Vue中的混入(mixin)](../JavaScript/vue_mixin.md)
 19. [Vue中的slot(插槽)](../JavaScript/vue_slot.md)
 20. [Vue中sytle标签scoped原理](../JavaScript/vue_scoped.md)
+21. [Vue组件传值/通信](../JavaScript/vue_component_data.md)
