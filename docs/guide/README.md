@@ -41,3 +41,5 @@
 12. [v-model和.sync的区别](../JavaScript/vue_model_sync.md)
 13. [v-if和v-for为什么不能一起使用](../JavaScript/v_for_if.md)
 14. [Vue中$nextTick的作用](../JavaScript/vue_nexttick.md)
+15. [Vue的组件](../JavaScript/vue_component.md)
+16. [Vue的插件](../JavaScript/vue_plugin.md)
