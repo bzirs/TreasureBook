@@ -45,3 +45,4 @@
 16. [Vue的插件](../JavaScript/vue_plugin.md)
 17. [Vue2自定义指令](../JavaScript/vue_define_instructions.md)
 18. [Vue中的混入(mixin)](../JavaScript/vue_mixin.md)
+19. [Vue中的slot(插槽)](../JavaScript/vue_slot.md)
