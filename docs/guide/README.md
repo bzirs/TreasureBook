@@ -15,10 +15,6 @@ nav: 指南
 1. [为什么说HTTPS比HTTP安全](../Browser/why_https_security.md)
 2. [GET和POST请求的区别](../Browser/get_post.md)
 
-## 算法
-
-1. [diff算法](../JavaScript/diff_algorithm.md)
-
 ## JavaScript
 
 1. [如何理解JS的异步](../JavaScript/js_async.md)
@@ -26,6 +22,14 @@ nav: 指南
 3. [什么是闭包？闭包使用场景](../JavaScript/closure.md)
 4. [数组常用方法](../JavaScript/array_methods.md)
 5. [JS的计时器能精确计时吗](../JavaScript/timer.md)
+
+## 算法
+
+1. [diff算法](../JavaScript/diff_algorithm.md)
+
+## webpack
+
+1. [assets和static区别](../JavaScript/webpack_assets_static.md)
 
 ## Vue
 
@@ -54,3 +58,7 @@ nav: 指南
 23. [Vue内置组件keep-alive](../JavaScript/vue_keepalive.md)
 24. [Vue中动态data添加属性会发生什么](../JavaScript/vue_dynamic_add_data.md)
 25. [Vue中性能优化的手段](../JavaScript/vue_performance_optimization.md)
+
+## VueRouter
+
+1. [什么是VueRouter](../JavaScript/vuerouter.md)

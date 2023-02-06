@@ -12,6 +12,10 @@
 
 1. [diff算法](./diff_algorithm.md)
 
+## webpack
+
+1. [assets和static区别](./webpack_assets_static.md)
+
 ## Vue
 
 1. [什么是Vue](./what_is_vue.md)
@@ -39,3 +43,7 @@
 23. [Vue内置组件keep-alive](./vue_keepalive.md)
 24. [Vue中动态data添加属性会发生什么](./vue_dynamic_add_data.md)
 25. [Vue中性能优化的手段](./vue_performance_optimization.md)
+
+## VueRouter
+
+1. [什么是VueRouter](./vuerouter.md)
