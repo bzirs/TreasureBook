@@ -63,3 +63,5 @@ nav: 指南
 
 1. [什么是VueRouter](../JavaScript/vuerouter.md)
 2. [router和route](../JavaScript/vuerouter_router_route.md)
+3. [路由开发的优缺点](../JavaScript/vuerouter_dev.md)
+4. [VueRouter使用方式](../JavaScript/vuerouter_usage.md)

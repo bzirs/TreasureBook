@@ -48,3 +48,5 @@
 
 1. [什么是VueRouter](./vuerouter.md)
 2. [router和route](./vuerouter_router_route.md)
+3. [路由开发的优缺点](./vuerouter_dev.md)
+4. [VueRouter使用方式](./vuerouter_usage.md)
