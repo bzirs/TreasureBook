@@ -62,3 +62,4 @@ nav: 指南
 ## VueRouter
 
 1. [什么是VueRouter](../JavaScript/vuerouter.md)
+2. [router和route](../JavaScript/vuerouter_router_route.md)

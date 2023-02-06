@@ -47,3 +47,4 @@
 ## VueRouter
 
 1. [什么是VueRouter](./vuerouter.md)
+2. [router和route](./vuerouter_router_route.md)
