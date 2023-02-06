@@ -65,3 +65,4 @@ nav: 指南
 2. [router和route](../JavaScript/vuerouter_router_route.md)
 3. [路由开发的优缺点](../JavaScript/vuerouter_dev.md)
 4. [VueRouter使用方式](../JavaScript/vuerouter_usage.md)
+5. [路由跳转的方式](../JavaScript/vuerouter_route_jump.md)
