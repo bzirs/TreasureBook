@@ -51,3 +51,4 @@
 3. [路由开发的优缺点](./vuerouter_dev.md)
 4. [VueRouter使用方式](./vuerouter_usage.md)
 5. [路由跳转的方式](./vuerouter_route_jump.md)
+6. [路由传参方式](./vuerouter_route_params.md)
