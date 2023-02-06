@@ -38,3 +38,4 @@
 22. [Vue组件和插件的区别](./vue_component_plugin.md)
 23. [Vue内置组件keep-alive](./vue_keepalive.md)
 24. [Vue中动态data添加属性会发生什么](./vue_dynamic_add_data.md)
+25. [Vue中性能优化的手段](./vue_performance_optimization.md)

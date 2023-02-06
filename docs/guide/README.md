@@ -17,7 +17,7 @@ nav: 指南
 
 ## 算法
 
-1. [diff算法](./diff_algorithm.md)
+1. [diff算法](../JavaScript/diff_algorithm.md)
 
 ## JavaScript
 
@@ -53,3 +53,4 @@ nav: 指南
 22. [Vue组件和插件的区别](../JavaScript/vue_component_plugin.md)
 23. [Vue内置组件keep-alive](../JavaScript/vue_keepalive.md)
 24. [Vue中动态data添加属性会发生什么](../JavaScript/vue_dynamic_add_data.md)
+25. [Vue中性能优化的手段](../JavaScript/vue_performance_optimization.md)
