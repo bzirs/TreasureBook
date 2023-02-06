@@ -49,3 +49,5 @@
 20. [Vue中sytle标签scoped原理](../JavaScript/vue_scoped.md)
 21. [Vue组件传值/通信](../JavaScript/vue_component_data.md)
 22. [Vue组件和插件的区别](../JavaScript/vue_component_plugin.md)
+23. [Vue内置组件keep-alive](../JavaScript/vue_keepalive.md)
+24. [Vue中动态data添加属性会发生什么](../JavaScript/vue_dynamic_add_data.md)
