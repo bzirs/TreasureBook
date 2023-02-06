@@ -35,3 +35,4 @@
 19. [Vue中的slot(插槽)](./vue_slot.md)
 20. [Vue中sytle标签scoped原理](./vue_scoped.md)
 21. [Vue组件传值/通信](./vue_component_data.md)
+22. [Vue组件和插件的区别](./vue_component_plugin.md)
