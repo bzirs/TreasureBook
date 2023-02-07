@@ -1,6 +1,6 @@
 ---
-nav: JS
-group: vue
+nav: Browser
+group: 浏览器
 ---
 # 什么是SPA
 
