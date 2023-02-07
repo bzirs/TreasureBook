@@ -52,3 +52,4 @@
 4. [VueRouter使用方式](./vuerouter_usage.md)
 5. [路由跳转的方式](./vuerouter_route_jump.md)
 6. [路由传参方式](./vuerouter_route_params.md)
+7. [路由重定向和404](./vuerouter_redirect_404.md)
