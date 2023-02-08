@@ -29,6 +29,10 @@ nav: 指南
 1. [let和const](../JavaScript/js_let_const.md)
 2. [箭头函数](../JavaScript/js_arrow_func.md)
 
+### Promise
+
+1. [promise是什么](../JavaScript/promise.md)
+
 ## 算法
 
 1. [diff算法](../JavaScript/diff_algorithm.md)

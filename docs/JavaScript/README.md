@@ -13,6 +13,10 @@
 1. [let和const](./js_let_const.md)
 2. [箭头函数](./js_arrow_func.md)
 
+### Promise
+
+1. [promise是什么](./promise.md)
+
 ## 算法
 
 1. [diff算法](./diff_algorithm.md)
