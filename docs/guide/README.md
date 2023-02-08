@@ -83,3 +83,4 @@ nav: 指南
 3. [Vuex核心](../JavaScript/vuex_core.md)
 4. [Vuex中getters](../JavaScript/vuex_getters.md)
 5. [mutation可以使用异步吗](../JavaScript/vuex_mutation_async.md)
+6. [Vuex刷新数据丢失问题](../JavaScript/vuex_refresh.md)

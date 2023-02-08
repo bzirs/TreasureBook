@@ -67,3 +67,4 @@
 3. [Vuex核心](./vuex_core.md)
 4. [Vuex中getters](./vuex_getters.md)
 5. [mutation可以使用异步吗](./vuex_mutation_async.md)
+6. [Vuex刷新数据丢失问题](./vuex_refresh.md)
