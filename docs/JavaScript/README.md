@@ -2,11 +2,13 @@
 
 ## JavaScript
 
-1. [如何理解JS的异步](./js_async.md)
-2. [如何判断JS的数据类型](./judge_data_type.md)
-3. [什么是闭包？闭包使用场景](./closure.md)
-4. [数组常用方法](./array_methods.md)
-5. [JS的计时器能精确计时吗](./timer.md)
+1. [js数据类型](./js_data_type.md)
+2. [数据类型检测](./js_type_test.md)
+3. [如何理解JS的异步](./js_async.md)
+4. [如何判断JS的数据类型](./judge_data_type.md)
+5. [什么是闭包？闭包使用场景](./closure.md)
+6. [数组常用方法](./array_methods.md)
+7. [JS的计时器能精确计时吗](./timer.md)
 
 ### ECMAScript6
 
