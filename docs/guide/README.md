@@ -82,3 +82,4 @@ nav: 指南
 2. [Vuex工作流程](../JavaScript/vuex_technological_process.md)
 3. [Vuex核心](../JavaScript/vuex_core.md)
 4. [Vuex中getters](../JavaScript/vuex_getters.md)
+5. [mutation可以使用异步吗](../JavaScript/vuex_mutation_async.md)

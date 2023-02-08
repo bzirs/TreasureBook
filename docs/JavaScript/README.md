@@ -66,3 +66,4 @@
 2. [Vuex工作流程](./vuex_technological_process.md)
 3. [Vuex核心](./vuex_core.md)
 4. [Vuex中getters](./vuex_getters.md)
+5. [mutation可以使用异步吗](./vuex_mutation_async.md)
