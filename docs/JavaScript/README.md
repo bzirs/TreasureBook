@@ -58,3 +58,4 @@
 10. [history路由模式](./vuerouter_history.md)
 11. [hash和history区别](./vuerouter_hash_history.md)
 12. [history模式为什么跳404](./vuerouter_history_404.md)
+13. [路由守卫](./vuerouter_nav_guard.md)

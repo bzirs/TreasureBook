@@ -74,3 +74,4 @@ nav: 指南
 10. [history路由模式](../JavaScript/vuerouter_history.md)
 11. [hash和history区别](../JavaScript/vuerouter_hash_history.md)
 12. [history模式为什么跳404](../JavaScript/vuerouter_history_404.md)
+13. [路由守卫](../JavaScript/vuerouter_nav_guard.md)
