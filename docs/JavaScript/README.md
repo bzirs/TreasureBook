@@ -8,6 +8,10 @@
 4. [数组常用方法](./array_methods.md)
 5. [JS的计时器能精确计时吗](./timer.md)
 
+### ECMAScript6
+
+1. [let和const](./js_let_const.md)
+
 ## 算法
 
 1. [diff算法](./diff_algorithm.md)
@@ -44,7 +48,7 @@
 24. [Vue中动态data添加属性会发生什么](./vue_dynamic_add_data.md)
 25. [Vue中性能优化的手段](./vue_performance_optimization.md)
 
-## VueRouter
+### VueRouter
 
 1. [什么是VueRouter](./vuerouter.md)
 2. [router和route](./vuerouter_router_route.md)
@@ -60,7 +64,7 @@
 12. [history模式为什么跳404](./vuerouter_history_404.md)
 13. [路由守卫](./vuerouter_nav_guard.md)
 
-## Vuex & Pinia
+### Vuex & Pinia
 
 1. [什么是Vuex](./vuex.md)
 2. [Vuex工作流程](./vuex_technological_process.md)
