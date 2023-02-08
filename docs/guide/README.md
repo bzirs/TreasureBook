@@ -27,6 +27,7 @@ nav: 指南
 ### ECMAScript6
 
 1. [let和const](../JavaScript/js_let_const.md)
+2. [箭头函数](../JavaScript/js_arrow_func.md)
 
 ## 算法
 
