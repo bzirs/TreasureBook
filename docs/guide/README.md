@@ -79,3 +79,4 @@ nav: 指南
 ## Vuex & Pinia
 
 1. [什么是Vuex](../JavaScript/vuex.md)
+2. [Vuex工作流程](../JavaScript/vuex_technological_process.md)

@@ -63,3 +63,4 @@
 ## Vuex & Pinia
 
 1. [什么是Vuex](./vuex.md)
+2. [Vuex工作流程](./vuex_technological_process.md)
