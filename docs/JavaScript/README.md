@@ -56,3 +56,5 @@
 8. [Vue三种路由模式](./vuerouter_hash_history_abstract.md)
 9. [hash路由模式](./vuerouter_hash.md)
 10. [history路由模式](./vuerouter_history.md)
+11. [hash和history区别](./vuerouter_hash_history.md)
+12. [history模式为什么跳404](./vuerouter_history_404.md)

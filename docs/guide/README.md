@@ -72,3 +72,5 @@ nav: 指南
 8. [Vue三种路由模式](../JavaScript/vuerouter_hash_history_abstract.md)
 9. [hash路由模式](../JavaScript/vuerouter_hash.md)
 10. [history路由模式](../JavaScript/vuerouter_history.md)
+11. [hash和history区别](../JavaScript/vuerouter_hash_history.md)
+12. [history模式为什么跳404](../JavaScript/vuerouter_history_404.md)
