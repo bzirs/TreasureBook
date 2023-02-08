@@ -75,3 +75,7 @@ nav: 指南
 11. [hash和history区别](../JavaScript/vuerouter_hash_history.md)
 12. [history模式为什么跳404](../JavaScript/vuerouter_history_404.md)
 13. [路由守卫](../JavaScript/vuerouter_nav_guard.md)
+
+## Vuex & Pinia
+
+1. [什么是Vuex](../JavaScript/vuex.md)
