@@ -80,3 +80,4 @@ nav: 指南
 
 1. [什么是Vuex](../JavaScript/vuex.md)
 2. [Vuex工作流程](../JavaScript/vuex_technological_process.md)
+3. [Vuex核心](../JavaScript/vuex_core.md)

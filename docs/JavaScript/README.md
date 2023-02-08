@@ -64,3 +64,4 @@
 
 1. [什么是Vuex](./vuex.md)
 2. [Vuex工作流程](./vuex_technological_process.md)
+3. [Vuex核心](./vuex_core.md)
