@@ -8,6 +8,7 @@
 4. [什么是SPA](./what_is_spa.md)
 5. [前端路由原理](./web_route_principle.md)
 6. [浏览器是如何渲染页面的](./browser_render_page.md)
+7. [如何减少回流与重绘](./browser_reduce_reflow_redraw.md)
 
 ## HTTP
 

@@ -11,6 +11,7 @@ nav: 指南
 4. [什么是SPA](../Browser/what_is_spa.md)
 5. [前端路由原理](../Browser/web_route_principle.md)
 6. [浏览器是如何渲染页面的](../Browser/browser_render_page.md)
+7. [如何减少回流与重绘](../Browser/browser_reduce_reflow_redraw.md)
 
 ## HTTP
 
