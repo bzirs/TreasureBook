@@ -1,6 +1,6 @@
 ---
 nav: JS
-group: promise
+group: js
 ---
 # 数据类型检测
 

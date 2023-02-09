@@ -25,6 +25,7 @@ nav: 指南
 5. [什么是闭包？闭包使用场景](../JavaScript/closure.md)
 6. [数组常用方法](../JavaScript/array_methods.md)
 7. [JS的计时器能精确计时吗](../JavaScript/timer.md)
+8. [new操作符流程](../JavaScript/js_new.md)
 
 ### ECMAScript6
 

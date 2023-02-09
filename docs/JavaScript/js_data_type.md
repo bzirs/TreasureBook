@@ -1,6 +1,6 @@
 ---
 nav: JS
-group: promise
+group: js
 ---
 # js数据类型
 
