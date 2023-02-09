@@ -11,6 +11,7 @@
 7. [JS的计时器能精确计时吗](./timer.md)
 8. [new操作符流程](./js_new.md)
 9. [防抖和节流](./js_anti-shaking_throttling.md)
+10. [数组的循环方式及作用](./js_array_loop.md)
 
 ### ECMAScript6
 

@@ -29,6 +29,7 @@ nav: 指南
 7. [JS的计时器能精确计时吗](../JavaScript/timer.md)
 8. [new操作符流程](../JavaScript/js_new.md)
 9. [防抖和节流](../JavaScript/js_anti-shaking_throttling.md)
+10. [数组的循环方式及作用](../JavaScript/js_array_loop.md)
 
 ### ECMAScript6
 
