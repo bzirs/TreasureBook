@@ -7,6 +7,7 @@
 3. [虚拟DOM](./virtual_dom.md)
 4. [什么是SPA](./what_is_spa.md)
 5. [前端路由原理](./web_route_principle.md)
+6. [浏览器是如何渲染页面的](./browser_render_page.md)
 
 ## HTTP
 
