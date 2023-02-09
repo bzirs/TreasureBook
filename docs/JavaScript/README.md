@@ -10,6 +10,7 @@
 6. [数组常用方法](./array_methods.md)
 7. [JS的计时器能精确计时吗](./timer.md)
 8. [new操作符流程](./js_new.md)
+9. [防抖和节流](./js_anti-shaking_throttling.md)
 
 ### ECMAScript6
 
