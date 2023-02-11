@@ -24,7 +24,7 @@ nav: 指南
 2. [数据类型检测](../JavaScript/js_type_test.md)
 3. [如何理解JS的异步](../JavaScript/js_async.md)
 4. [如何判断JS的数据类型](../JavaScript/judge_data_type.md)
-5. [什么是闭包？闭包使用场景](../JavaScript/closure.md)
+5. [什么是闭包？闭包使用场景](../JavaScript/js_closure.md)
 6. [数组常用方法](../JavaScript/array_methods.md)
 7. [JS的计时器能精确计时吗](../JavaScript/timer.md)
 8. [new操作符流程](../JavaScript/js_new.md)
@@ -32,6 +32,7 @@ nav: 指南
 10. [数组的循环方式及作用](../JavaScript/js_array_loop.md)
 11. [字符串常用方法](../JavaScript/js_string_method.md)
 12. [什么是原型链](./js_prototype_chain.md)
+13. [js继承](./js_inherit.md)
 
 ### ECMAScript6
 
