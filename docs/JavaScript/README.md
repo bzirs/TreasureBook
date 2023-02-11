@@ -12,6 +12,8 @@
 8. [new操作符流程](./js_new.md)
 9. [防抖和节流](./js_anti-shaking_throttling.md)
 10. [数组的循环方式及作用](./js_array_loop.md)
+11. [字符串常用方法](./js_string_method.md)
+12. [什么是原型链](./js_prototype_chain.md)
 
 ### ECMAScript6
 
