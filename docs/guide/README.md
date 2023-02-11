@@ -31,8 +31,9 @@ nav: 指南
 9. [防抖和节流](../JavaScript/js_anti-shaking_throttling.md)
 10. [数组的循环方式及作用](../JavaScript/js_array_loop.md)
 11. [字符串常用方法](../JavaScript/js_string_method.md)
-12. [什么是原型链](./js_prototype_chain.md)
-13. [js继承](./js_inherit.md)
+12. [什么是原型链](../JavaScript/js_prototype_chain.md)
+13. [js继承](../JavaScript/js_inherit.md)
+14. [class类](../JavaScript/js_class.md)
 
 ### ECMAScript6
 

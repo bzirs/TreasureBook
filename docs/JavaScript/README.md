@@ -15,6 +15,7 @@
 11. [字符串常用方法](./js_string_method.md)
 12. [什么是原型链](./js_prototype_chain.md)
 13. [js继承](./js_inherit.md)
+14. [class类](./js_class.md)
 
 ### ECMAScript6
 
