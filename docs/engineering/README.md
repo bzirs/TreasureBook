@@ -8,3 +8,4 @@
 2. [webpack五大核心](./webpack_core.md)
 3. [webpack中常用loader](./webpack_loader.md)
 4. [webpack中常用plugin](./webpack_plugin.md)
+5. [webpack常用优化前端性能的手段](./webpack_optimize_performance.md)
