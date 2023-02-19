@@ -29,10 +29,6 @@
 
 1. [diff算法](./diff_algorithm.md)
 
-## webpack
-
-1. [assets和static区别](./webpack_assets_static.md)
-
 ## Vue
 
 1. [什么是Vue](./what_is_vue.md)
