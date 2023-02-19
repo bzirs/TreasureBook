@@ -30,6 +30,10 @@ nav: 指南
 4. [webpack中常用plugin](../engineering/webpack_plugin.md)
 5. [webpack常用优化前端性能的手段](../engineering/webpack_optimize_performance.md)
 
+### Vite
+
+1. [vite底层原理](../engineering/vite_principle.md)
+
 ## JavaScript
 
 1. [js数据类型](../JavaScript/js_data_type.md)
