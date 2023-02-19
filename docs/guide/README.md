@@ -25,7 +25,9 @@ nav: 指南
 ### webpack
 
 1. [assets和static区别](../engineering/webpack_assets_static.md)
-2. [webpack中常用loader](../engineering/webpack_loader.md)
+2. [webpack五大核心](../engineering/webpack_core.md)
+3. [webpack中常用loader](../engineering/webpack_loader.md)
+4. [webpack中常用plugin](../engineering/webpack_plugin.md)
 
 ## JavaScript
 
