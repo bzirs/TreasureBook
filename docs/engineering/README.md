@@ -6,3 +6,4 @@
 
 1. [assets和static区别](./webpack_assets_static.md)
 2. [webpack中常用loader](./webpack_loader.md)
+3. [webpack中常用plugin](./webpack_plugin.md)
