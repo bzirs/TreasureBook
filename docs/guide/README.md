@@ -29,6 +29,7 @@ nav: 指南
 3. [webpack中常用loader](../engineering/webpack_loader.md)
 4. [webpack中常用plugin](../engineering/webpack_plugin.md)
 5. [webpack常用优化前端性能的手段](../engineering/webpack_optimize_performance.md)
+6. [webpack热更新原理](../engineering/webpack_hmr_principle.md.md)
 
 ### Vite
 
