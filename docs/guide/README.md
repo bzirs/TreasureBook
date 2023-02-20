@@ -6,6 +6,7 @@ nav: 指南
 ## 重点背(仅限作者本人)
 
 1. [vue和react区别](../JavaScript/vue_react.md)
+2. [浏览器缓存机制(强缓存,协商缓存区别)](../Browser/browser_aching_mechanism.md)
 
 ## 浏览器
 
@@ -16,6 +17,7 @@ nav: 指南
 5. [前端路由原理](../Browser/web_route_principle.md)
 6. [浏览器是如何渲染页面的](../Browser/browser_render_page.md)
 7. [如何减少回流与重绘](../Browser/browser_reduce_reflow_redraw.md)
+8. [浏览器缓存机制(强缓存,协商缓存区别)](../Browser/browser_aching_mechanism.md)
 
 ## HTTP
 
