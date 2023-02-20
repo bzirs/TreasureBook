@@ -3,6 +3,10 @@ nav: 指南
 ---
 # 总目录
 
+## 重点背(仅限作者本人)
+
+1. [vue和react区别](../JavaScript/vue_react.md)
+
 ## 浏览器
 
 1. [什么是事件循环(消息循环)](../Browser/event_loop.md)
