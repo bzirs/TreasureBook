@@ -7,6 +7,10 @@ nav: 指南
 
 1. [vue和react区别](../JavaScript/vue_react.md)
 2. [浏览器缓存机制(强缓存,协商缓存区别)](../Browser/browser_aching_mechanism.md)
+3. [webpack中常用loader](../engineering/webpack_loader.md)
+4. [webpack中常用plugin](../engineering/webpack_plugin.md)
+5. [webpack常用优化前端性能的手段](../engineering/webpack_optimize_performance.md)
+6. [webpack热更新原理](../engineering/webpack_hmr_principle.md.md)
 
 ## 浏览器
 
@@ -18,6 +22,7 @@ nav: 指南
 6. [浏览器是如何渲染页面的](../Browser/browser_render_page.md)
 7. [如何减少回流与重绘](../Browser/browser_reduce_reflow_redraw.md)
 8. [浏览器缓存机制(强缓存,协商缓存区别)](../Browser/browser_aching_mechanism.md)
+9. [vite底层原理](../engineering/vite_principle.md)
 
 ## HTTP
 
