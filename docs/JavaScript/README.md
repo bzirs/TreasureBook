@@ -59,6 +59,10 @@
 24. [Vue中动态data添加属性会发生什么](./vue_dynamic_add_data.md)
 25. [Vue中性能优化的手段](./vue_performance_optimization.md)
 
+### Vue3
+
+1. [Vue2和Vue3区别](./vue_2_3.md)
+
 ### VueRouter
 
 1. [什么是VueRouter](./vuerouter.md)
