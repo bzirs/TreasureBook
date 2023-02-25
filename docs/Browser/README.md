@@ -10,6 +10,7 @@
 6. [浏览器是如何渲染页面的](./browser_render_page.md)
 7. [如何减少回流与重绘](./browser_reduce_reflow_redraw.md)
 8. [浏览器缓存机制(强缓存,协商缓存区别)](./browser_aching_mechanism.md)
+9. [V8 垃圾回收机制](./browser_v8.md)
 
 ## HTTP
 

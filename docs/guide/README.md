@@ -13,6 +13,11 @@ nav: 指南
 6. [webpack热更新原理](../engineering/webpack_hmr_principle.md.md)
 7. [vite底层原理](../engineering/vite_principle.md)
 8. [webpack和rollup的区别](../engineering/webpack_rollup_difference.md)
+9. [V8 垃圾回收机制](../Browser/browser_v8.md)
+
+## 近期常问
+
+1.[link和@import区别](../css/link_import.md)
 
 ## 浏览器
 
@@ -24,6 +29,7 @@ nav: 指南
 6. [浏览器是如何渲染页面的](../Browser/browser_render_page.md)
 7. [如何减少回流与重绘](../Browser/browser_reduce_reflow_redraw.md)
 8. [浏览器缓存机制(强缓存,协商缓存区别)](../Browser/browser_aching_mechanism.md)
+9. [V8 垃圾回收机制](../Browser/browser_v8.md)
 
 ## HTTP
 

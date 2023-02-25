@@ -25,6 +25,10 @@ export default defineConfig({
         link: '/browser',
       },
       {
+        title: 'CSS',
+        link: '/css',
+      },
+      {
         title: '工程化',
         link: '/engineering',
       },
