@@ -87,3 +87,4 @@
 4. [Vuex中getters](./vuex_getters.md)
 5. [mutation可以使用异步吗](./vuex_mutation_async.md)
 6. [Vuex刷新数据丢失问题](./vuex_refresh.md)
+7. [Pinia和Vuex区别](./pinia_vuex.md)
