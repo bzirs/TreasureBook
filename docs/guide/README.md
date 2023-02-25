@@ -15,10 +15,13 @@ nav: 指南
 8. [webpack和rollup的区别](../engineering/webpack_rollup_difference.md)
 9. [V8 垃圾回收机制](../Browser/browser_v8.md)
 10. [如何理解JS的异步(运行机制)](../JavaScript/js_async.md)
+11. [浏览器是如何渲染页面的](../Browser/browser_render_page.md)
 
 ## 近期常问
 
-1.[link和@import区别](../css/link_import.md)
+1. [link和@import区别](../css/link_import.md)
+2. [Vue2和Vue3区别](../JavaScript/vue_2_3.md)
+3. [Pinia和Vuex区别](../JavaScript/pinia_vuex.md)
 
 ## 浏览器
 
@@ -116,6 +119,10 @@ nav: 指南
 24. [Vue中动态data添加属性会发生什么](../JavaScript/vue_dynamic_add_data.md)
 25. [Vue中性能优化的手段](../JavaScript/vue_performance_optimization.md)
 
+### Vue3
+
+1. [Vue2和Vue3区别](../JavaScript/vue_2_3.md)
+
 #### VueRouter
 
 1. [什么是VueRouter](../JavaScript/vuerouter.md)
@@ -140,3 +147,4 @@ nav: 指南
 4. [Vuex中getters](../JavaScript/vuex_getters.md)
 5. [mutation可以使用异步吗](../JavaScript/vuex_mutation_async.md)
 6. [Vuex刷新数据丢失问题](../JavaScript/vuex_refresh.md)
+7. [Pinia和Vuex区别](../JavaScript/pinia_vuex.md)
