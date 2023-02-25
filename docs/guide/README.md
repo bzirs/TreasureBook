@@ -14,6 +14,7 @@ nav: 指南
 7. [vite底层原理](../engineering/vite_principle.md)
 8. [webpack和rollup的区别](../engineering/webpack_rollup_difference.md)
 9. [V8 垃圾回收机制](../Browser/browser_v8.md)
+10. [如何理解JS的异步(运行机制)](../JavaScript/js_async.md)
 
 ## 近期常问
 
@@ -59,9 +60,9 @@ nav: 指南
 
 ## JavaScript
 
-1. [js数据类型](../JavaScript/js_data_type.md)
+1. [JS数据类型](../JavaScript/js_data_type.md)
 2. [数据类型检测](../JavaScript/js_type_test.md)
-3. [如何理解JS的异步](../JavaScript/js_async.md)
+3. [如何理解JS的异步(运行机制)](../JavaScript/js_async.md)
 4. [如何判断JS的数据类型](../JavaScript/judge_data_type.md)
 5. [什么是闭包？闭包使用场景](../JavaScript/js_closure.md)
 6. [数组常用方法](../JavaScript/array_methods.md)
