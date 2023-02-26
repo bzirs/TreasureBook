@@ -22,6 +22,8 @@ nav: 指南
 1. [link和@import区别](../css/link_import.md)
 2. [Vue2和Vue3区别](../JavaScript/vue_2_3.md)
 3. [Pinia和Vuex区别](../JavaScript/pinia_vuex.md)
+4. [小程序生命周期](../JavaScript/applet_life_cycle.md)
+5. [代码规范](../engineering/code_specification.md)
 
 ## 浏览器
 
@@ -47,6 +49,7 @@ nav: 指南
 ## 工程化
 
 1. [webpack和rollup的区别](../engineering/webpack_rollup_difference.md)
+2. [代码规范](../engineering/code_specification.md)
 
 ### webpack
 
@@ -148,3 +151,7 @@ nav: 指南
 5. [mutation可以使用异步吗](../JavaScript/vuex_mutation_async.md)
 6. [Vuex刷新数据丢失问题](../JavaScript/vuex_refresh.md)
 7. [Pinia和Vuex区别](../JavaScript/pinia_vuex.md)
+
+## 小程序
+
+1. [小程序生命周期](../JavaScript/applet_life_cycle.md)

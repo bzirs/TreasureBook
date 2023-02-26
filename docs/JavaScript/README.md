@@ -88,3 +88,7 @@
 5. [mutation可以使用异步吗](./vuex_mutation_async.md)
 6. [Vuex刷新数据丢失问题](./vuex_refresh.md)
 7. [Pinia和Vuex区别](./pinia_vuex.md)
+
+## 小程序
+
+1. [小程序生命周期](./applet_life_cycle.md)
