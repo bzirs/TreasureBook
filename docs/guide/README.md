@@ -24,6 +24,7 @@ nav: 指南
 3. [Pinia和Vuex区别](../JavaScript/pinia_vuex.md)
 4. [小程序生命周期](../JavaScript/applet_life_cycle.md)
 5. [代码规范](../engineering/code_specification.md)
+6. [如何让chrome字体小于12px](../Browser/browser_font12px.md)
 
 ## 浏览器
 
@@ -36,6 +37,7 @@ nav: 指南
 7. [如何减少回流与重绘](../Browser/browser_reduce_reflow_redraw.md)
 8. [浏览器缓存机制(强缓存,协商缓存区别)](../Browser/browser_aching_mechanism.md)
 9. [V8 垃圾回收机制](../Browser/browser_v8.md)
+10. [如何让chrome字体小于12px](../Browser/browser_font12px.md)
 
 ## HTTP
 
