@@ -96,6 +96,10 @@ nav: 指南
 
 1. [diff算法](../JavaScript/diff_algorithm.md)
 
+### React
+
+1. [React事件机制](./react_event.md)
+
 ### Vue
 
 1. [什么是Vue](../JavaScript/what_is_vue.md)
