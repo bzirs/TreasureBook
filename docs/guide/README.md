@@ -98,7 +98,9 @@ nav: 指南
 
 ### React
 
-1. [React事件机制](./react_event.md)
+1. [React事件机制](../JavaScript/react_event.md)
+2. [React事件件和普通的HTML 事件有什么不同](../JavaScript/react_dom_event.md)
+3. [React事件机制优点](../JavaScript/react_event_merit.md)
 
 ### Vue
 
